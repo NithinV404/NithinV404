@@ -14,9 +14,10 @@ Hi there! I'm Nithin, a passionate developer who loves to build and explore new 
 
 Here are some of the projects I've worked on:
 
-1. **[Project Name 1](https://github.com/NithinV404/forklore)** - A simple and intuitive recipe managment app
-2. **[Project Name 2](https://github.com/NithinV404/N2R-Technologies)** - A E-commerce PC Parts Website.
-3. **[Project Name 3](https://github.com/NithinV404/peopleforanimals)** - A animal rescue shelter managment website
+1. **[Forklore](https://github.com/NithinV404/forklore)** - A simple and intuitive recipe managment app
+2. **[N2R Technoloiges](https://github.com/NithinV404/N2R-Technologies)** - A E-commerce PC Parts Website.
+3. **[People for animals](https://github.com/NithinV404/peopleforanimals)** - A animal rescue shelter managment website
+   
 
 Feel free to explore my repositories for more!
 
@@ -41,7 +42,7 @@ Feel free to explore my repositories for more!
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### CI
-[GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 ## GitHub Stats 📊
