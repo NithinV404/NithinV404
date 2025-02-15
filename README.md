@@ -21,6 +21,10 @@ Here are some of the projects I've worked on:
 
 Feel free to explore my repositories for more!
 
+## GitHub Contributions 📈
+
+![GitHub Contributions](https://ghchart.rshah.org/NithinV404)
+
 ## Skills 🧠
 
 ### Programming Languages
