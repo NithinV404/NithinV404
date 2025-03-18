@@ -22,8 +22,7 @@ Feel free to explore my repositories for more!
 
 ## GitHub Contributions 📈
 
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NithinV404&theme=github)
-
+![Github Stat](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Skills 🧠
 
