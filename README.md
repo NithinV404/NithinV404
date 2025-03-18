@@ -22,7 +22,7 @@ Feel free to explore my repositories for more!
 
 ## GitHub Contributions 📈
 
-![Github Stat](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
+![Github Stat](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Skills 🧠
 
