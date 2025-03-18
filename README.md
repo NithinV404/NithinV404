@@ -22,7 +22,7 @@ Feel free to explore my repositories for more!
 
 ## GitHub Contributions 📈
 
-![Github Stat](./profile-3d-contrib/profile-green-animate.svg)
+![Github Stat](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Skills 🧠
 
@@ -51,10 +51,6 @@ Feel free to explore my repositories for more!
 ### CI
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## GitHub Stats 📊
-
-![Github Stats](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Let's Connect! 🌐
 
