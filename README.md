@@ -5,9 +5,10 @@ Hi there! I'm Nithin, a passionate developer who loves to build and explore new 
 ## About Me 🚀
 
 - 🔭 I’m currently working on:
-**[Grup](https://github.com/NithinV404/grup)** - A clone of linux grup command line utiliy program in rust
+**[Grup](https://github.com/NithinV404/grup)**,
 **[Forklore](https://github.com/NithinV404/forklore)**
-- 🌱 I’m currently learning: **AWS** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white), **CI/CD** ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white), **Rust** ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+- 🌱 I’m currently learning:![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 - 🤝 I’m looking to collaborate on: **Full Stack Development**, **CI/CD**, **DevOps**, **Rust**
 
 - 😄 Pronouns: **He/Him**
